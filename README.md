@@ -1,6 +1,6 @@
 # NLP-Indeed-Diversity-project
 Diversity is very important to include in a company.
-In this particular project we will be able to see how many companies actually mentions it in their Company description on Indeed.
+In this particular project we will be able to see how many companies actually mentions it in their Company description on [Indeed](https://ca.indeed.com/).
 
 ## How do we find this out?
 
